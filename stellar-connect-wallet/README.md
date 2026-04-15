@@ -55,7 +55,7 @@ npm run build
 
 Below are the available wallet options for connection:
 
-![Wallet Options Screenshot](wallet-options.png)
+<img src="./wallet-options.png" alt="Wallet Options Screenshot" />
 
 ## Live Demo
 
