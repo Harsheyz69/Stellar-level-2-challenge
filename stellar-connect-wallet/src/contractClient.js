@@ -50,7 +50,7 @@ let localPaymentCount = 0;
 function isContractDeployed() {
   return (
     CONTRACT_ID &&
-    CONTRACT_ID !== "CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2OOTH67I"
+    CONTRACT_ID !== ""
   );
 }
 

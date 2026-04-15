@@ -6,8 +6,7 @@ export const HORIZON_URL = "https://horizon-testnet.stellar.org";
 export const SOROBAN_RPC_URL = "https://soroban-testnet.stellar.org";
 
 // ⚠️ Replace this with your actual deployed contract ID
-export const CONTRACT_ID =
-  "CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2OOTH67I";
+export const CONTRACT_ID = "";
 
 // ─── Wallet Types ───────────────────────────────────────────────────────────
 
