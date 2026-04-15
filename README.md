@@ -59,4 +59,4 @@ Below are the available wallet options for connection:
 
 ## Live Demo
 
-*   **Live Application**: [Insert Vercel/Netlify URL Here]
+*   **Live Application**: [https://stellardapp.vercel.app/](https://stellardapp.vercel.app/)
