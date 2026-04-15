@@ -55,7 +55,7 @@ npm run build
 
 Below are the available wallet options for connection:
 
-![Wallet Options Screenshot](Wallet%20options%20available.png)
+![Wallet Options Screenshot](wallet-options.png)
 
 ## Live Demo
 
