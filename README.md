@@ -55,7 +55,7 @@ npm run build
 
 Below are the available wallet options for connection:
 
-![Wallet Options Screenshot](public/wallet-options.png)
+![Wallet Options Screenshot](stellar-connect-wallet/public/wallet-options.png)
 
 ## Live Demo
 
