@@ -1,3 +1,4 @@
+/* eslint-disable no-throw-literal, no-unused-vars */
 /**
  * contractClient.js — Soroban Contract Interaction Layer
  *

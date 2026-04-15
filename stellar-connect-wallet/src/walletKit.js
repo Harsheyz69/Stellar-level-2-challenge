@@ -1,3 +1,4 @@
+/* eslint-disable no-throw-literal */
 /**
  * StellarWalletsKit — Multi-wallet abstraction layer
  * Follows the StellarWalletsKit pattern: a unified API to connect, sign,
