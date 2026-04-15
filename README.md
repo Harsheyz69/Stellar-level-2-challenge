@@ -48,7 +48,7 @@ npm run build
 ## Contract Details
 
 *   **Network**: Stellar Testnet
-*   **Deployed Contract Address**: `CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2OOTH67I`
+*   **Deployed Contract Address**: ``
 *   **Sample Transaction Hash**: `[PLEASE_INSERT_YOUR_TRANSACTION_HASH_HERE]` (You can verify this hash on [Stellar Expert Testnet Explorer](https://stellar.expert/explorer/testnet/)).
 
 ## Wallet Options
