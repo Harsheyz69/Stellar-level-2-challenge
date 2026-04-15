@@ -49,7 +49,7 @@ npm run build
 
 *   **Network**: Stellar Testnet
 *   **Deployed Contract Address**: ``
-*   **Sample Transaction Hash**: `[PLEASE_INSERT_YOUR_TRANSACTION_HASH_HERE]` (You can verify this hash on [Stellar Expert Testnet Explorer](https://stellar.expert/explorer/testnet/)).
+*   **Sample Transaction Hash**: 
 
 ## Wallet Options
 
