@@ -48,8 +48,8 @@ npm run build
 ## Contract Details
 
 *   **Network**: Stellar Testnet
-*   **Deployed Contract Address**: ``
-*   **Sample Transaction Hash**: 
+*   **Deployed Contract Address**: `CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2OOTH67I`
+*   **Sample Transaction Hash**: `ba51bbdb7c7bcd27a94657cbc8c90e1db4c62041f1dcec15184bc550ecb03ff2`
 
 ## Wallet Options
 
